@@ -1,10 +1,4 @@
-Here's a well-structured `README.md` for your **FindNearMedicalStore** repository:  
 
----
-
-### **📜 README.md for FindNearMedicalStore**  
-
-```md
 # 🏥 Find Near Medical Store 🌍💊  
 
 A **FastAPI-based backend** that helps users locate nearby pharmacies using **OpenStreetMap's Overpass API**.  
@@ -87,10 +81,4 @@ This project is **open-source** and free to use under the **MIT License**.
 **🔗 Developed with ❤️ by [Sonasha99](https://github.com/Sonasha99)**  
 ```
 
-This README gives:  
-✅ Project Overview  
-✅ Features & Tech Stack  
-✅ Setup & Usage Instructions  
-✅ Future Enhancements  
 
-Let me know if you need any changes! 🚀🔥
